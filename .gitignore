@@ -1,0 +1,9 @@
+*.pptx
+images/
+paramiko/.vscode/
+paramiko/__pycache__
+paramiko/ssh/
+paramiko/.git
+paramiko/script_python_ssh/__pycache__
+paramiko/script_python_ssh/.gitignore
+paramiko/script_python_sshcredentials_ssh.py
